@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Weather-dash/static/css/main.554acdb1.css",
+    "main.js": "/Weather-dash/static/js/main.8017e04d.js",
+    "index.html": "/Weather-dash/index.html",
+    "main.554acdb1.css.map": "/Weather-dash/static/css/main.554acdb1.css.map",
+    "main.8017e04d.js.map": "/Weather-dash/static/js/main.8017e04d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554acdb1.css",
+    "static/js/main.8017e04d.js"
+  ]
+}
